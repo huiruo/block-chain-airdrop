@@ -78,7 +78,7 @@ const config: Config = {
           label: 'Main',
         },
         {
-          href: 'https://github.com/huiruo/programming-tech-website/',
+          href: 'https://github.com/huiruo/block-chain-airdrop/',
           label: 'GitHub',
           position: 'right',
         },
