@@ -28,10 +28,11 @@ const sidebars: SidebarsConfig = {
    */
   docs: [
     'start',
-    'hello-world',
+    '介绍/项目',
+    // 'hello-world',
     // 'readmeTest',
     {
-      label: 'React',
+      label: '其他',
       type: 'category',
       collapsed: true,
       items: [
