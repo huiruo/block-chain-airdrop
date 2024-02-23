@@ -31,6 +31,7 @@ const sidebars: SidebarsConfig = {
     '介绍/项目',
     // 'hello-world',
     // 'readmeTest',
+    '工具',
     {
       label: '其他',
       type: 'category',
