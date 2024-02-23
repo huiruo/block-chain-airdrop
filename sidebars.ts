@@ -28,7 +28,6 @@ const sidebars: SidebarsConfig = {
    */
   docs: [
     'start',
-    '介绍/项目',
     // 'hello-world',
     // 'readmeTest',
     '工具',
@@ -42,16 +41,9 @@ const sidebars: SidebarsConfig = {
         '项目/Blast-L2',
         '项目/Scroll-L2',
         '项目/Linea-L2',
+        '项目/wen',
       ]
     },
-    {
-      label: '其他',
-      type: 'category',
-      collapsed: true,
-      items: [
-        '介绍/readme'
-      ]
-    }
   ]
 };
 
