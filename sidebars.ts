@@ -33,6 +33,18 @@ const sidebars: SidebarsConfig = {
     // 'readmeTest',
     '工具',
     {
+      label: '项目',
+      type: 'category',
+      collapsed: true,
+      items: [
+        '项目/Tea',
+        '项目/EigenLayer',
+        '项目/Blast-L2',
+        '项目/Scroll-L2',
+        '项目/Linea-L2',
+      ]
+    },
+    {
       label: '其他',
       type: 'category',
       collapsed: true,
