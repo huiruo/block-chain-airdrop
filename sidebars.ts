@@ -44,6 +44,14 @@ const sidebars: SidebarsConfig = {
         '项目/wen',
       ]
     },
+    {
+      label: '知识',
+      type: 'category',
+      collapsed: true,
+      items: [
+        '知识/成功经验1',
+      ]
+    },
   ]
 };
 
