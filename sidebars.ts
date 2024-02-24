@@ -31,6 +31,7 @@ const sidebars: SidebarsConfig = {
     // 'hello-world',
     // 'readmeTest',
     '工具',
+    '安全工具',
     {
       label: '项目',
       type: 'category',
