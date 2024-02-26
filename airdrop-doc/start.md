@@ -8,6 +8,8 @@ https://www.google.com/intl/zh-CN/chrome/
 https://chrome.google.com/webstore/detail/metamask/nkbihfbeogaeaoehlefnkodbefgpgknn?hl=zh-CN
 
 ## 每次签名的时候会有弹窗帮你识别签名是否安全
+https://chromewebstore.google.com/detail/pocket-universe/gacgndbocaddlemdiaadajmlggabdeod
+
 目前应该是只支持以太和马蹄链
 
 ## twitter

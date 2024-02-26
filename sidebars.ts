@@ -32,6 +32,7 @@ const sidebars: SidebarsConfig = {
     // 'readmeTest',
     '空投网站-工具',
     '安全工具',
+    '区块链资讯',
     {
       label: '项目',
       type: 'category',
