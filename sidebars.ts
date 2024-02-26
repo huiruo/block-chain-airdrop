@@ -30,7 +30,7 @@ const sidebars: SidebarsConfig = {
     'start',
     // 'hello-world',
     // 'readmeTest',
-    '工具',
+    '空投网站-工具',
     '安全工具',
     {
       label: '项目',
@@ -51,6 +51,7 @@ const sidebars: SidebarsConfig = {
       collapsed: true,
       items: [
         '知识/成功经验1',
+        '知识/思维-越是没有成本的越占用你的时间'
       ]
     },
   ]
