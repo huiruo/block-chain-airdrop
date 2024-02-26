@@ -38,6 +38,7 @@ const sidebars: SidebarsConfig = {
       type: 'category',
       collapsed: true,
       items: [
+        '项目/Berachain',
         '项目/Tea',
         '项目/EigenLayer',
         '项目/Blast-L2',
