@@ -28,11 +28,10 @@ const sidebars: SidebarsConfig = {
    */
   docs: [
     'start',
-    // 'hello-world',
-    // 'readmeTest',
     '空投网站-工具',
     '安全工具',
     '区块链资讯',
+    '术语',
     {
       label: '项目',
       type: 'category',

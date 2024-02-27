@@ -1,6 +1,35 @@
 ## 来源1
 https://medium.com/@senlonlee/berachain-artio%E6%B5%8B%E8%AF%95%E7%BD%91%E4%BA%A4%E4%BA%92%E7%BB%88%E6%9E%81%E6%8C%87%E5%8D%97-%E8%BF%91%E6%9C%9Fberachain%E7%94%9F%E6%80%81%E8%BF%98%E6%9C%89%E5%93%AA%E4%BA%9B%E6%AF%94%E8%BE%83%E5%80%BC%E5%BE%97%E5%85%B3%E6%B3%A8%E7%9A%84%E6%96%B0%E9%A1%B9%E7%9B%AE-4a996aa20c0b
 
+简单签个到就可以免费拿空投？盘点15个参与方式非常简单的空投项目
+
+https://www.binance.com/zh-CN/feed/post/3050315214289
+
+### 介绍
+Berachain 始于 NFT 系列，现在则是备受期待的 Layer1 项目之一。Berachain 是基于 Cosmos SDK 构建的创新 Layer1 解决方案，具有 EVM（由Polaris EVM提供支持）等效功能并采用流动性证明 (PoL、Proof of Liquidity) 共识，该项目准备做协议层面协调安全性和流动性之间的激励措施。简单点来说就是，Berachain 最大的特点之一是它可以解决流动性流入的问题。
+
+Berachain 的经济模型设计是围绕三种代币系统展开的，分别是 BERA（原生 Gas 代币）、HONEY（原生稳定币）和 BGT（质押和治理代币）。用户可以通过质押 BERA 来赚取 BGT，这种参与治理使他们能够获得由底层链架构生成的 HONEY 作为奖励。
+
+目前，Berachain 正处于测试网（1月11日推出了公共测试网Artio）期间，而且从官网来看，他们还提供了内部 DEX、永续交易所、借贷市场等各种功能。
+
+### 添加测试网
+```
+https://chainlist.org/?search=Berachain+Artio
+```
+
+进入 Berachain 的水龙头网站里面领水（即领取BERA测试币、地址如下），领取方式也很简单，直接输入你的钱包地址，然后点击 Drip Tokens 按钮即可。如下图所示。
+```
+http://artio.faucet.berachain.com
+```
+
+然后进入 Berachain 官网:
+https://www.berachain.com/
+
+参与里面各种产品的交互即可，比如你可以进行 Swap（比如BERA/STGUSDC、或BETA/BTC）操作、Pool 里面添加流动性操作（比如BERA/STGUSDC）、Minting HONEY 操作、或进行 Borrow（借贷）等操作。
+
+
+
+
 ## 来源2
 https://www.theblockbeats.info/news/50922
 

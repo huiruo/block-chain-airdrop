@@ -13,10 +13,10 @@ https://chromewebstore.google.com/detail/pocket-universe/gacgndbocaddlemdiaadajm
 目前应该是只支持以太和马蹄链
 
 ## 指纹浏览器
-[morelogin](https://blog.browserscan.net/)
+* [morelogin](https://blog.browserscan.net/),
 教程：https://www.youtube.com/watch?v=2YdPcOqd5rc
 
-[bitbrowser]https://www.bitbrowser.cn/
+* [bitbrowser](https://www.bitbrowser.cn/)
 
 ## twitter
 ```
