@@ -31,6 +31,7 @@ const sidebars: SidebarsConfig = {
     '空投网站-工具',
     '安全工具',
     '区块链资讯',
+    '项目/15-2024空投',
     '术语',
     {
       label: '项目',
@@ -44,6 +45,15 @@ const sidebars: SidebarsConfig = {
         '项目/Scroll-L2',
         '项目/Linea-L2',
         '项目/wen',
+      ]
+    },
+    {
+      label: '知识',
+      type: 'category',
+      collapsed: true,
+      items: [
+        '知识/成功经验1',
+        '知识/思维-越是没有成本的越占用你的时间'
       ]
     },
     {
