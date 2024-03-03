@@ -54,6 +54,7 @@ const sidebars: SidebarsConfig = {
       items: [
         'trader/成交量分析-0302',
         'trader/op-long-0303',
+        'trader/strk-long-0303',
       ]
     },
     {
