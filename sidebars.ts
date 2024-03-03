@@ -48,12 +48,12 @@ const sidebars: SidebarsConfig = {
       ]
     },
     {
-      label: '知识',
+      label: 'trader',
       type: 'category',
       collapsed: true,
       items: [
-        '知识/成功经验1',
-        '知识/思维-越是没有成本的越占用你的时间'
+        'trader/成交量分析-0302',
+        'trader/op-long-0303',
       ]
     },
     {
