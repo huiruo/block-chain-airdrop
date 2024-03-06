@@ -53,7 +53,7 @@ const sidebars: SidebarsConfig = {
       collapsed: true,
       items: [
         'trader/止损',
-        'trader/交易网站',
+        // 'trader/交易网站',
         'trader/成交量分析-0302',
         'trader/op-long-0303',
         'trader/strk-long-0303',
