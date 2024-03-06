@@ -1,4 +1,4 @@
-import type {SidebarsConfig} from '@docusaurus/plugin-content-docs';
+import type { SidebarsConfig } from '@docusaurus/plugin-content-docs';
 
 /**
  * Creating a sidebar enables you to:
@@ -28,25 +28,6 @@ const sidebars: SidebarsConfig = {
    */
   docs: [
     'start',
-    '空投网站-工具',
-    '安全工具',
-    '区块链资讯',
-    '项目/15-2024空投',
-    '术语',
-    {
-      label: '项目',
-      type: 'category',
-      collapsed: true,
-      items: [
-        '项目/Berachain',
-        '项目/Tea',
-        '项目/EigenLayer',
-        '项目/Blast-L2',
-        '项目/Scroll-L2',
-        '项目/Linea-L2',
-        '项目/wen',
-      ]
-    },
     {
       label: 'trader',
       type: 'category',
@@ -62,12 +43,39 @@ const sidebars: SidebarsConfig = {
       ]
     },
     {
+      label: '开发',
+      type: 'category',
+      collapsed: true,
+      items: [
+        'develop/readme',
+      ]
+    },
+    '安全工具',
+    '区块链资讯',
+    '空投网站-工具',
+    {
+      label: 'airdop',
+      type: 'category',
+      collapsed: true,
+      items: [
+        'airdop/15-2024空投',
+        'airdop/Berachain',
+        'airdop/Tea',
+        'airdop/EigenLayer',
+        'airdop/Blast-L2',
+        'airdop/Scroll-L2',
+        'airdop/Linea-L2',
+        'airdop/wen',
+      ]
+    },
+    {
       label: '知识',
       type: 'category',
       collapsed: true,
       items: [
         '知识/成功经验1',
-        '知识/思维-越是没有成本的越占用你的时间'
+        '知识/思维-越是没有成本的越占用你的时间',
+        '知识/术语',
       ]
     },
   ]

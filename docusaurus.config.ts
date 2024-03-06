@@ -3,12 +3,12 @@ import type { Config } from '@docusaurus/types';
 import type * as Preset from '@docusaurus/preset-classic';
 
 const config: Config = {
-  title: 'Block chain airdrop',
-  tagline: 'Hello World',
+  title: 'Block chain',
+  tagline: '',
   favicon: 'img/favicon.ico',
 
   // Set the production url of your site here
-  url: 'https://your-docusaurus-site.example.com',
+  url: 'https://block-chain-eta.vercel.app/',
   // Set the /<baseUrl>/ pathname under which your site is served
   // For GitHub pages deployment, it is often '/<projectName>/'
   baseUrl: '/',
@@ -16,7 +16,7 @@ const config: Config = {
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
   organizationName: 'huiruo', // Usually your GitHub org/user name.
-  projectName: 'block-chain-airdrop', // Usually your repo name.
+  projectName: 'block-chain', // Usually your repo name.
 
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
@@ -39,10 +39,10 @@ const config: Config = {
         docs: {
           sidebarPath: './sidebars.ts',
           routeBasePath: '/',
-          path: 'airdrop-doc/',
+          path: 'block-chain/',
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
-          editUrl: 'https://github.com/huiruo/block-chain-airdrop/edit/main',
+          editUrl: 'https://github.com/huiruo/block-chain/edit/main',
         },
         blog: false,
         /*
@@ -65,7 +65,7 @@ const config: Config = {
     // Replace with your project's social card
     image: 'img/docusaurus-social-card.jpg',
     navbar: {
-      title: 'airdrop-doc',
+      title: 'block-chain',
       logo: {
         alt: 'My Site Logo',
         src: 'img/logo.svg',
@@ -78,7 +78,7 @@ const config: Config = {
           label: 'Main',
         },
         {
-          href: 'https://github.com/huiruo/block-chain-airdrop/',
+          href: 'https://github.com/huiruo/block-chain/',
           label: 'GitHub',
           position: 'right',
         },
