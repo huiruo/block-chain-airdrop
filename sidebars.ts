@@ -41,6 +41,8 @@ const sidebars: SidebarsConfig = {
         'trader/strk-long-0303',
         'trader/上涨趋势',
         'trader/strk2',
+        'trader/strk2',
+        'trader/RNDR卖飞',
       ]
     },
     {
@@ -62,11 +64,11 @@ const sidebars: SidebarsConfig = {
       collapsed: true,
       items: [
         'solidity/readme',
-        'solidity/02-1-array',
-        'solidity/03-1-enum',
-        'solidity/03-1-变量类型',
-        'solidity/03-2-变量初值',
-        'solidity/03-3-constant和immutable',
+        'solidity/变量类型-初始值',
+        'solidity/array',
+        'solidity/enum',
+        'solidity/constant和immutable',
+        'solidity/mapping',
         'solidity/04-1-function',
         'solidity/04-3-Function Modifier',
         'solidity/04-3-function',
@@ -74,7 +76,6 @@ const sidebars: SidebarsConfig = {
         'solidity/05-1-函数输出return',
         'solidity/06-1-变量数据存储和作用域',
         'solidity/07-1-struct',
-        'solidity/08-1-mapping',
         'solidity/12-1-继承',
         'solidity/12-2-Inheritance',
         'solidity/A-3种类型的变量-常量',

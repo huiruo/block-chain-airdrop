@@ -1,8 +1,8 @@
-## 01-array
-数组分为固定长度数组和可变长度数组两种
-Array can have a compile-time fixed size or a dynamic size.
+## 1.array
+数组分为固定长度数组和可变长度数组两种<br/> Array can have a compile-time fixed size or a dynamic size.
 
-### 1-1.固定长度数组：在声明时指定数组的长度。用`T[k]`的格式声明，其中T是元素的类型，k是长度，例如：
+### 1-1.固定长度数组：在声明时指定数组的长度
+用`T[k]`的格式声明，其中T是元素的类型，k是长度，例如：
 ```js
 // 固定长度 Array
 uint[8] array1;
