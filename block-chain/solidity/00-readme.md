@@ -20,15 +20,3 @@ https://github.com/AmazingAng/WTF-Solidity
 https://www.wtf.academy/docs/solidity-101/HelloWeb3/
 
 solidity，坑很多，每个月都有项目因为这些小bug损失几千万甚至上亿美元。掌握好基础，不断练习，才能写出更好的solidity代码。
-
-## 1-2.remix
-[](remix.ethereum.org)
-
-在编辑代码的页面，按ctrl+S就可以编译代码，非常方便。
-
-编译好之后，点击左侧菜单的“部署”按钮，进入部署页面。
-
-在默认情况下，remix会用JS虚拟机来模拟以太坊链，运行智能合约，类似在浏览器里跑一条测试链。并且remix会分配几个测试账户给你，每个里面有100 ETH（测试代币）。你点Deploy（黄色按钮），就可以部署咱们写好的合约了。
-
-## 教程2
-https://solidity-by-example.org/first-app/

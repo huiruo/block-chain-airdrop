@@ -53,4 +53,7 @@ solidity引入pure和view关键字主要是为了节省gas和控制函数权限
 ### A-3.不写pure也不写view，函数既可以读取也可以写入状态变量。
 
 ### A-4.例子
-[函数例子](./04-2-function.sol)
+<!-- [函数例子](./04-2-function.sol) -->
+```
+04-2-function.sol
+```
