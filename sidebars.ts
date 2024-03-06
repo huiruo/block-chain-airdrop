@@ -61,6 +61,7 @@ const sidebars: SidebarsConfig = {
       type: 'category',
       collapsed: true,
       items: [
+        'solidity/readme',
         'solidity/02-1-array',
         'solidity/03-1-enum',
         'solidity/03-1-变量类型',
@@ -89,7 +90,6 @@ const sidebars: SidebarsConfig = {
         'solidity/fallback',
         'solidity/for-if-插入排序例子',
         'solidity/new创建其他合约的合约',
-        'solidity/readme',
         'solidity/事件',
         'solidity/发送以太币',
         'solidity/异常',

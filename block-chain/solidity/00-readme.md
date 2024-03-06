@@ -14,9 +14,9 @@ Solidity可在下列平台中运作:
 
 而与目前其他EVM目标语言（如Serpent和Mutan）相比，其重要的差异在于Solidity具有一组复杂的成员变量使得合约可支持任意层次结构的映射和结构。Solidity也支持继承，包含C3线性化多重继承。 另外还引入了一个应用程序二进制接口（ABI），该接口（ABI）可在单一合同中实现多种类型安全的功能。 
 
-## 1-1.教程1
-https://github.com/AmazingAng/WTF-Solidity
+## 参考
+[solidity-by-example](https://solidity-by-example.org/)
 
-https://www.wtf.academy/docs/solidity-101/HelloWeb3/
+[https://www.wtf.academy/](https://www.wtf.academy/)
 
 solidity，坑很多，每个月都有项目因为这些小bug损失几千万甚至上亿美元。掌握好基础，不断练习，才能写出更好的solidity代码。
