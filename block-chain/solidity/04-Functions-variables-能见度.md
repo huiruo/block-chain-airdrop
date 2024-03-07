@@ -15,6 +15,11 @@ State variables can be declared as public, private, or internal but not external
 * internal- 仅在继承internal函数的合约内部
 * external- 只有其他合约和账户可以调用
 
+函数定义,方括号中的是可写可不写的关键字：
+```js
+function <function name>(<parameter types>) internal|external|public|private [pure|view|payable] [returns (<return types>)]
+```
+
 ### 1-2.状态变量
 状态变量可以声明为
 * public
