@@ -72,7 +72,7 @@ const sidebars: SidebarsConfig = {
         'solidity/enum',
         'solidity/constant和immutable',
         'solidity/mapping',
-        'solidity/functions-variables-能见度',
+        'solidity/function-variable-能见度',
         'solidity/function',
         'solidity/function return',
         'solidity/function Selector',
