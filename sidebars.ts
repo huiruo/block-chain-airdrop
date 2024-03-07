@@ -67,7 +67,6 @@ const sidebars: SidebarsConfig = {
         'solidity/变量类型-初始值',
         'solidity/变量数据存储和作用域',
         'solidity/三种类型变量-常量-读取写入状态变量',
-        'solidity/数据位置-存储-内存和调用数据',
         'solidity/constant和immutable',
         'solidity/array',
         'solidity/enum',
