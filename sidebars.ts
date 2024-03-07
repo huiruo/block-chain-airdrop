@@ -53,7 +53,7 @@ const sidebars: SidebarsConfig = {
         'develop/readme',
         'develop/运行template-ethereum-contracts',
         'develop/hardhat',
-        'develop/web3modal/web2modal',
+        'develop/web3modal/web3modal',
         'develop/wagmi/wagmi',
         'develop/openzeppelin/openzeppelin',
       ]
@@ -236,6 +236,7 @@ const sidebars: SidebarsConfig = {
       type: 'category',
       collapsed: true,
       items: [
+        '知识/深度休息反而加速学习',
         '知识/术语',
         '知识/btc-etf',
         '知识/成功经验1',
