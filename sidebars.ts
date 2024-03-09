@@ -33,6 +33,14 @@ const sidebars: SidebarsConfig = {
       type: 'category',
       collapsed: true,
       items: [
+        {
+          label: '分析',
+          type: 'category',
+          collapsed: true,
+          items: [
+            'trader/analyze/成交量-FTM',
+          ]
+        },
         'trader/止损',
         'trader/豪哥交易经验',
         // 'trader/交易网站',
@@ -43,6 +51,7 @@ const sidebars: SidebarsConfig = {
         'trader/strk2',
         'trader/strk2',
         'trader/RNDR卖飞',
+        'trader/pixel-卖飞-观察量价',
       ]
     },
     {
