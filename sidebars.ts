@@ -42,24 +42,25 @@ const sidebars: SidebarsConfig = {
           ]
         },
         {
+          label: '日本蜡烛图技术',
+          type: 'category',
+          collapsed: true,
+          items: [
+            'trader/日本蜡烛图技术/节选1',
+            'trader/日本蜡烛图技术/反转形态',
+            'trader/日本蜡烛图技术/十字线',
+            'trader/日本蜡烛图技术/纺锤线',
+            'trader/日本蜡烛图技术/伞形线之锤子线',
+            'trader/日本蜡烛图技术/伞形线之上吊线',
+            'trader/日本蜡烛图技术/吞没形态',
+          ]
+        },
+        {
           label: 'learn',
           type: 'category',
           collapsed: true,
           items: [
             'trader/learn/书籍',
-            {
-              label: '日本蜡烛图技术',
-              type: 'category',
-              collapsed: true,
-              items: [
-                'trader/learn/日本蜡烛图技术/节选1',
-                'trader/learn/日本蜡烛图技术/反转形态',
-                'trader/learn/日本蜡烛图技术/十字线',
-                'trader/learn/日本蜡烛图技术/纺锤线',
-                'trader/learn/日本蜡烛图技术/伞形线之锤子线',
-                'trader/learn/日本蜡烛图技术/伞形线之上吊线',
-              ]
-            },
           ]
         },
         'trader/止损',
