@@ -53,6 +53,9 @@ const sidebars: SidebarsConfig = {
             'trader/日本蜡烛图技术/伞形线之锤子线',
             'trader/日本蜡烛图技术/伞形线之上吊线',
             'trader/日本蜡烛图技术/吞没形态',
+            'trader/日本蜡烛图技术/乌云盖顶',
+            'trader/日本蜡烛图技术/刺透形态',
+            'trader/日本蜡烛图技术/星线',
           ]
         },
         {
