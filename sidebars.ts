@@ -60,6 +60,7 @@ const sidebars: SidebarsConfig = {
             'trader/日本蜡烛图技术/星线-黄昏星',
             'trader/日本蜡烛图技术/星线-十字星',
             'trader/日本蜡烛图技术/星线-流星-倒锤线',
+            'trader/日本蜡烛图技术/孕线',
           ]
         },
         {
