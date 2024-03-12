@@ -34,14 +34,6 @@ const sidebars: SidebarsConfig = {
       collapsed: true,
       items: [
         {
-          label: 'analyze',
-          type: 'category',
-          collapsed: true,
-          items: [
-            'trader/analyze/成交量-FTM',
-          ]
-        },
-        {
           label: '日本蜡烛图技术',
           type: 'category',
           collapsed: true,
@@ -58,7 +50,6 @@ const sidebars: SidebarsConfig = {
             'trader/日本蜡烛图技术/星线',
             'trader/日本蜡烛图技术/星线-启明星',
             'trader/日本蜡烛图技术/星线-黄昏星',
-            'trader/日本蜡烛图技术/星线-十字星',
             'trader/日本蜡烛图技术/星线-流星-倒锤线',
             'trader/日本蜡烛图技术/孕线',
             'trader/日本蜡烛图技术/平头顶部-平头底部',
@@ -76,14 +67,6 @@ const sidebars: SidebarsConfig = {
             'trader/日本蜡烛图技术/蜡烛图与交易量',
           ]
         },
-        {
-          label: 'learn',
-          type: 'category',
-          collapsed: true,
-          items: [
-            'trader/learn/书籍',
-          ]
-        },
         'trader/止损',
         'trader/市场永远不会错',
         'trader/c98-亏损',
@@ -97,6 +80,22 @@ const sidebars: SidebarsConfig = {
         'trader/strk2',
         'trader/RNDR卖飞',
         'trader/pixel-卖飞-观察量价',
+        {
+          label: 'analyze',
+          type: 'category',
+          collapsed: true,
+          items: [
+            'trader/analyze/成交量-FTM',
+          ]
+        },
+        {
+          label: 'learn',
+          type: 'category',
+          collapsed: true,
+          items: [
+            'trader/learn/书籍',
+          ]
+        },
       ]
     },
     {
