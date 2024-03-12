@@ -73,6 +73,7 @@ const sidebars: SidebarsConfig = {
             'trader/日本蜡烛图技术/标题-持续形态-窗口',
             'trader/日本蜡烛图技术/上升-下降-三法',
             'trader/日本蜡烛图技术/分手线',
+            'trader/日本蜡烛图技术/蜡烛图与交易量',
           ]
         },
         {
