@@ -85,6 +85,8 @@ const sidebars: SidebarsConfig = {
           ]
         },
         'trader/止损',
+        'trader/市场永远不会错',
+        'trader/c98-亏损',
         'trader/豪哥交易经验',
         // 'trader/交易网站',
         'trader/成交量分析-0302',
