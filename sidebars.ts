@@ -74,6 +74,8 @@ const sidebars: SidebarsConfig = {
           items: [
             'trader/蜡烛图新解/实体',
             'trader/蜡烛图新解/纺锤线',
+            'trader/蜡烛图新解/十字星',
+            'trader/蜡烛图新解/上下影线',
           ]
         },
         'trader/为什么做交易要禁止合约',
