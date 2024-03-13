@@ -67,6 +67,15 @@ const sidebars: SidebarsConfig = {
             'trader/日本蜡烛图技术/蜡烛图与交易量',
           ]
         },
+        {
+          label: '蜡烛图新解',
+          type: 'category',
+          collapsed: true,
+          items: [
+            'trader/蜡烛图新解/实体',
+            'trader/蜡烛图新解/纺锤线',
+          ]
+        },
         'trader/为什么做交易要禁止合约',
         'trader/止损',
         'trader/市场永远不会错',
