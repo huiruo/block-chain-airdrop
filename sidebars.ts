@@ -67,6 +67,7 @@ const sidebars: SidebarsConfig = {
             'trader/日本蜡烛图技术/蜡烛图与交易量',
           ]
         },
+        'trader/为什么做交易要禁止合约',
         'trader/止损',
         'trader/市场永远不会错',
         'trader/c98-亏损',
