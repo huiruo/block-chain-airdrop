@@ -72,10 +72,14 @@ const sidebars: SidebarsConfig = {
           type: 'category',
           collapsed: true,
           items: [
+            'trader/蜡烛图新解/节选',
             'trader/蜡烛图新解/实体',
             'trader/蜡烛图新解/纺锤线',
             'trader/蜡烛图新解/十字星',
             'trader/蜡烛图新解/上下影线',
+            'trader/蜡烛图新解/锤子线',
+            'trader/蜡烛图新解/流星线',
+            'trader/蜡烛图新解/乌云盖顶',
           ]
         },
         'trader/为什么做交易要禁止合约',
