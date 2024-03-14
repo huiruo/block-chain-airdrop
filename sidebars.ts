@@ -47,6 +47,11 @@ const sidebars: SidebarsConfig = {
             'trader/蜡烛图新解/流星线',
             'trader/蜡烛图新解/乌云盖顶',
             'trader/蜡烛图新解/刺穿形态',
+            'trader/蜡烛图新解/吞噬形态',
+            'trader/蜡烛图新解/包孕形态',
+            'trader/蜡烛图新解/黄昏星',
+            'trader/蜡烛图新解/启明星',
+            'trader/蜡烛图新解/趋势',
           ]
         },
         {
@@ -85,6 +90,8 @@ const sidebars: SidebarsConfig = {
         },
         'trader/为什么做交易要禁止合约',
         'trader/止损',
+        'trader/止损分析',
+        'trader/择时而攻-择时而退者胜',
         'trader/市场永远不会错',
         'trader/c98-亏损',
         'trader/豪哥交易经验',
