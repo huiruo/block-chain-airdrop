@@ -14,7 +14,8 @@ title: 开始
 - [市场永远不会错](./trader/市场永远不会错)
 
 ## 2.区块链开发
-[开发](./develop/readme)
+[solidity](./solidity/readme)
+[开发](./develop/readme)<br/>
 
 ## 3.空投
 [空投网站-工具](./空投网站-工具)

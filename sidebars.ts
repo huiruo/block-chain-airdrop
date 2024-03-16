@@ -293,6 +293,7 @@ const sidebars: SidebarsConfig = {
     '安全工具',
     '区块链资讯',
     '空投网站-工具',
+    '钱包-转账',
     {
       label: 'airdop',
       type: 'category',
