@@ -28,6 +28,7 @@ const sidebars: SidebarsConfig = {
    */
   docs: [
     'start',
+    '链上监控',
     {
       label: 'trader',
       type: 'category',
@@ -289,7 +290,6 @@ const sidebars: SidebarsConfig = {
         },
       ]
     },
-    '链上监控',
     '安全工具',
     '区块链资讯',
     '空投网站-工具',
