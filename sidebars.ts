@@ -29,6 +29,7 @@ const sidebars: SidebarsConfig = {
   docs: [
     'start',
     '链上监控',
+    'btc地址监控',
     {
       label: 'trader',
       type: 'category',
