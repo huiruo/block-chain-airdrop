@@ -90,6 +90,7 @@ const sidebars: SidebarsConfig = {
             'trader/蜡烛图技术/蜡烛图与交易量',
           ]
         },
+        'trader/交易工具开发',
         'trader/为什么做交易要禁止合约',
         'trader/止损',
         'trader/止损分析',
