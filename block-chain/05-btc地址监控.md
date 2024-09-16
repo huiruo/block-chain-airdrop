@@ -1,3 +1,11 @@
+## 巴菲特
+1998年，巴菲特聊
+两位诺贝尓经济学奖获得者建立的基金
+长期资本
+如何在4年里走向破产
+
+https://x.com/0xUnicorn/status/1805532243492061391
+
 ## 持仓排名
 [持仓排名](https://www.coincarp.com/zh-tw/currencies/bitcoin/richlist/)
 
@@ -7,6 +15,12 @@
 Sun Apr 28 09:52:19 CST 2024
 18,597.68576378 BTC
 ```
+
+[大户2](https://bitinfocharts.com/bitcoin/address/36LMbBpvUHNsG1tfteuEXmpdMK408Rh8n1)
+
+
+## Germany
+[Germany](https://platform.arkhamintelligence.com/explorer/entity/germany)
 
 ## 萨尔瓦多地址
 ```

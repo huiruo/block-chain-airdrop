@@ -30,6 +30,7 @@ const sidebars: SidebarsConfig = {
     'start',
     '链上监控',
     'btc地址监控',
+    '双币投资',
     {
       label: 'trader',
       type: 'category',
