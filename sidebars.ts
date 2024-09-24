@@ -31,6 +31,7 @@ const sidebars: SidebarsConfig = {
     '链上监控',
     'btc地址监控',
     '双币投资',
+    '土狗',
     {
       label: 'trader',
       type: 'category',
